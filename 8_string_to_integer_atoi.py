@@ -17,6 +17,7 @@
 #               输入: "words and 987",    输出: 0, 解释: 第一个非空字符是 'w', 但它不是数字或正、负号。无法执行有效的转换。
 #               输入: "-91283472332", 输出: -2147483648, 解释: 数字 "-91283472332" 超过 32 位有符号整数范围。 因此返回 INT_MIN (−2^31) 。
 #
+# Difficulty:   Medium
 # Author:       zlchen
 # Date:         4/30/2019
 # Performance:  64 ms, surpass 84.77%'s python3 submissions

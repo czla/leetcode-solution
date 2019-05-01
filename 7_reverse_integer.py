@@ -6,6 +6,7 @@
 #               输入: -123,   输出: -321
 #               输入: 120,    输出: 21
 #
+# Difficulty:   Simple
 # Author:       zlchen
 # Date:         4/29/2019
 # Performance:  56 ms, surpass 98.47%'s python3 submissions

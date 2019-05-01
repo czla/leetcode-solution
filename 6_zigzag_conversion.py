@@ -15,6 +15,7 @@
 #               E C   I H   N
 #               T     S     G
 #
+# Difficulty:   Medium
 # Author:       zlchen
 # Date:         4/29/2019
 # Performance:  132 ms, surpass 48.54%'s python3 submissions

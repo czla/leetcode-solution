@@ -15,6 +15,7 @@
 //              E C   I H   N
 //              T     S     G
 //
+//Difficulty:   Medium
 //Author:       zlchen
 //Date:         4/29/2019
 //Performance:  120 ms, surpass 12.01%'s cpp submissions

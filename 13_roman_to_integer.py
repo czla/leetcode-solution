@@ -26,6 +26,7 @@
 #               输入: "LVIII",    输出: 58, 解释: L = 50, V= 5, III = 3.
 #               输入: "MCMXCIV",  输出: 1994, 解释: M = 1000, CM = 900, XC = 90, IV = 4.
 #
+# Difficulty:   Simple
 # Author:       zlchen
 # Date:         4/30/2019
 # Performance:  248 ms, surpass 51.34%'s python3 submissions

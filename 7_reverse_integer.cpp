@@ -6,6 +6,7 @@
 //               输入: -123,   输出: -321
 //               输入: 120,    输出: 21
 //
+// Difficulty:   Simple
 // Author:       zlchen
 // Date:         4/29/2019
 // Performance:  16 ms, surpass 77.62%'s cpp submissions

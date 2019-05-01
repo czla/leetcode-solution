@@ -12,6 +12,7 @@
 #               输入: "([)]",     输出: false
 #               输入: "{[]}",     输出: true
 #
+# Difficulty:   Simple
 # Author:       zlchen
 # Date:         4/30/2019
 # Performance:  76 ms, surpass 35.81%'s python3 submissions

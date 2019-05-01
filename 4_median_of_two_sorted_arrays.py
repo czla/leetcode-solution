@@ -4,6 +4,8 @@
 #
 # Examples:     nums1 = [1, 3] nums2 = [2], 则中位数是 2.0
 #               nums1 = [1, 2] nums2 = [3, 4], 则中位数是 (2 + 3)/2 = 2.5
+#
+# Difficulty:   Hard
 # Author:       zlchen
 # Date:         4/28/2019
 # Performance:  128 ms, surpass 44.10%'s python3 submissions

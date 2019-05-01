@@ -8,6 +8,7 @@
 #               输入: [1,3,5,6], 7,   输出: 4
 #               输入: [1,3,5,6], 0,   输出: 0
 #
+# Difficulty:   Simple
 # Author:       zlchen
 # Date:         4/30/2019
 # Performance:  56 ms, surpass 61.69%'s python3 submissions
