@@ -9,7 +9,7 @@
 // Difficulty:   Simple
 // Author:       zlchen
 // Date:         4/29/2019
-// Performance:  16 ms, surpass 77.62%'s cpp submissions
+// Performance:  16 ms, surpass 77.62%'s C++ submissions
 
 
 class Solution {
