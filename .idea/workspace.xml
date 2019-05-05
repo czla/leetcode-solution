@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a224a223-843e-4755-9587-9c61db1529c0" name="Default Changelist" comment="add 15_3sum">
-      <change afterPath="$PROJECT_DIR$/16_3sum_closest.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16_3sum_closest.py" afterDir="false" />
+    <list default="true" id="a224a223-843e-4755-9587-9c61db1529c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/17_letter_combinations_of_a_phone_number.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_letter_combinations_of_a_phone_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_container_with_most_water.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/11_container_with_most_water.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_integer_to_roman.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/12_integer_to_roman.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14_longest_common_prefix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/14_longest_common_prefix.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_two_sum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1_two_sum.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_longest_palindromic_substring.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/5_longest_palindromic_substring.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_zigzag_conversion.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/6_zigzag_conversion.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_reverse_integer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/7_reverse_integer.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,89 +17,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/15_3sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="86" selection-start-line="86" selection-end-line="89" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/16_3sum_closest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="10" />
+            <state relative-caret-position="570">
+              <caret line="89" column="36" lean-forward="true" selection-start-line="85" selection-end-line="89" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/16_3sum_closest.cpp">
+        <entry file="file://$PROJECT_DIR$/17_letter_combinations_of_a_phone_number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            <state relative-caret-position="120">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_two_sum.cpp">
+        <entry file="file://$PROJECT_DIR$/17_letter_combinations_of_a_phone_number.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5_longest_palindromic_substring.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6_zigzag_conversion.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7_reverse_integer.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11_container_with_most_water.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12_integer_to_roman.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/14_longest_common_prefix.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            <state relative-caret-position="160">
+              <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -131,8 +61,8 @@
       <find>res</find>
       <find>y</find>
       <find>x</find>
-      <find>#</find>
       <find>cpp</find>
+      <find>#</find>
     </findStrings>
     <replaceStrings>
       <replace>ten</replace>
@@ -146,9 +76,9 @@
       <replace>pos2</replace>
       <replace>neg2</replace>
       <replace>neg</replace>
-      <replace>//</replace>
-      <replace>c++</replace>
       <replace>C++</replace>
+      <replace>c++</replace>
+      <replace>//</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -184,6 +114,8 @@
         <option value="$PROJECT_DIR$/11_container_with_most_water.cpp" />
         <option value="$PROJECT_DIR$/12_integer_to_roman.cpp" />
         <option value="$PROJECT_DIR$/14_longest_common_prefix.cpp" />
+        <option value="$PROJECT_DIR$/17_letter_combinations_of_a_phone_number.py" />
+        <option value="$PROJECT_DIR$/17_letter_combinations_of_a_phone_number.cpp" />
       </list>
     </option>
   </component>
@@ -201,23 +133,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="leetcode-solution" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="E:\Scripts\Git\leetcode-solution" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="leetcode-solution" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-solution" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="leetcode-solution" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\Scripts\Git\leetcode-solution" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
@@ -242,28 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.16_3sum_closest">
-    <configuration name="11_container_with_most_water" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode-solution" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_container_with_most_water.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.17_letter_combinations_of_a_phone_number">
     <configuration name="12_integer_to_roman" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode-solution" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -348,13 +259,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="17_letter_combinations_of_a_phone_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-solution" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17_letter_combinations_of_a_phone_number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.17_letter_combinations_of_a_phone_number" />
         <item itemvalue="Python.16_3sum_closest" />
         <item itemvalue="Python.15_3sum" />
         <item itemvalue="Python.14_longest_common_prefix" />
         <item itemvalue="Python.12_integer_to_roman" />
-        <item itemvalue="Python.11_container_with_most_water" />
       </list>
     </recent_temporary>
   </component>
@@ -418,19 +350,26 @@
       <option name="project" value="LOCAL" />
       <updated>1556890753079</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add 16_3sum_closest">
+      <created>1556972830496</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556972830496</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49933067" visible="true" weight="0.1989425" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49933067" visible="true" weight="0.1989425" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24966975" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25606468" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25606468" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -510,7 +449,8 @@
     <MESSAGE value="add 12_integer_to_roman" />
     <MESSAGE value="add 14_longest_common_prefix" />
     <MESSAGE value="add 15_3sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 15_3sum" />
+    <MESSAGE value="add 16_3sum_closest" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 16_3sum_closest" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -635,59 +575,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15_3sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="86" selection-start-line="86" selection-end-line="89" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_two_sum.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="180">
           <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/5_longest_palindromic_substring.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="160">
           <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/6_zigzag_conversion.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="400">
           <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7_reverse_integer.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="220">
           <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/11_container_with_most_water.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="180">
           <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/12_integer_to_roman.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="620">
           <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/14_longest_common_prefix.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="200">
           <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16_3sum_closest.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -698,10 +638,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/16_3sum_closest.cpp">
+    <entry file="file://$PROJECT_DIR$/15_3sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        <state relative-caret-position="570">
+          <caret line="89" column="36" lean-forward="true" selection-start-line="85" selection-end-line="89" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_letter_combinations_of_a_phone_number.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_letter_combinations_of_a_phone_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
