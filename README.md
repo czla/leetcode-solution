@@ -23,6 +23,7 @@ Number | Problem | Solution | Difficulty
 18 | [4sum](https://leetcode-cn.com/problems/4sum/) | [Python](medium/18_4sum.py) [C++](medium/18_4sum.cpp) | Medium
 19 | [remove-nth-node-from-end-of-list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Python](medium/19_remove_nth_node_from_end_of_list.py) [C++](medium/19_remove_nth_node_from_end_of_list.cpp) | Medium
 20 | [valid-parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [Python](simple/20_valid_parentheses.py) | Simple
+21 | [merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/submissions/) | [Python](simple/21_merge_two_sorted_lists.py) [C++](simple/21_merge_two_sorted_lists.cpp) | Simple
 35 | [search-insert-position](https://leetcode-cn.com/problems/search-insert-position/) | [Python](simple/35_search_insert_position.py) | Simple
 
 ## License
