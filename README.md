@@ -6,6 +6,7 @@
 Number | Problem | Solution | Difficulty
 :--: | :--: | :--: | :--:
 1 | [two-sum](https://leetcode-cn.com/problems/two-sum/) | [Python](simple/1_two_sum.py) [C++](simplr/1_two_sum.cpp) | Simple
+2 | [add-two-numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [Python](medium/2_add_two_numbers.py) [C++](medium/2_add_two_numbers.cpp) | Medium
 4 | [median-of-two-sorted-arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [Python](hard/4_median_of_two_sorted_arrays.py) | Hard
 5 | [longest-palindromic-substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Python](medium/5_longest_palindromic_substring.py) [C++](medium/5_longest_palindromic_substring.cpp) | Medium
 6 | [zigzag-conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | [Python](medium/6_zigzag_conversion.py) [C++](medium/6_zigzag_conversion.cpp) | Medium
