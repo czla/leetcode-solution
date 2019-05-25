@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a224a223-843e-4755-9587-9c61db1529c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hard/23_merge_k_sorted_lists.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hard/23_merge_k_sorted_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/22_generate_parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hard/10_regular_expression_matching.py" beforeDir="false" afterPath="$PROJECT_DIR$/hard/10_regular_expression_matching.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="516">
-                <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <first_editor relative-caret-position="306">
+                <caret line="30" column="176" lean-forward="true" selection-start-line="30" selection-start-column="176" selection-end-line="30" selection-end-column="176" />
               </first_editor>
               <second_editor />
             </state>
@@ -33,46 +31,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/medium/22_generate_parentheses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hard/23_merge_k_sorted_lists.py">
+        <entry file="file://$PROJECT_DIR$/medium/19_remove_nth_node_from_end_of_list.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="15" />
+              <caret selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hard/23_merge_k_sorted_lists.cpp">
+        <entry file="file://$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state>
+              <caret selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hard/10_regular_expression_matching.py">
+        <entry file="file://$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hard/4_median_of_two_sorted_arrays.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="280">
+              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -162,10 +142,12 @@
         <option value="$PROJECT_DIR$/medium/2_add_two_numbers.cpp" />
         <option value="$PROJECT_DIR$/medium/3_longest_substring_without_repeating_characters.py" />
         <option value="$PROJECT_DIR$/medium/3_longest_substring_without_repeating_characters.cpp" />
-        <option value="$PROJECT_DIR$/medium/22_generate_parentheses.py" />
         <option value="$PROJECT_DIR$/hard/23_merge_k_sorted_lists.py" />
         <option value="$PROJECT_DIR$/hard/10_regular_expression_matching.py" />
         <option value="$PROJECT_DIR$/hard/23_merge_k_sorted_lists.cpp" />
+        <option value="$PROJECT_DIR$/medium/22_generate_parentheses.py" />
+        <option value="$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.py" />
+        <option value="$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.cpp" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -190,11 +172,6 @@
             <path>
               <item name="leetcode-solution" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-solution" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-solution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-solution" type="462c0819:PsiDirectoryNode" />
-              <item name="hard" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode-solution" type="b2602c69:ProjectViewProjectNode" />
@@ -235,28 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.22_generate_parentheses">
-    <configuration name="18_4sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode-solution" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18_4sum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.24_swap_nodes_in_pairs">
     <configuration name="21_merge_two_sorted_lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode-solution" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -291,6 +247,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/medium/22_generate_parentheses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="24_swap_nodes_in_pairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-solution" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/medium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,11 +320,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.24_swap_nodes_in_pairs" />
         <item itemvalue="Python.22_generate_parentheses" />
         <item itemvalue="Python.3_longest_substring_without_repeating_characters" />
         <item itemvalue="Python.2_add_two_numbers" />
         <item itemvalue="Python.21_merge_two_sorted_lists" />
-        <item itemvalue="Python.18_4sum" />
       </list>
     </recent_temporary>
   </component>
@@ -474,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1557671630238</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add 22&amp;23">
+      <created>1558768333992</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1558768333992</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -486,7 +470,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966952" weight="0.25606468" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966952" visible="true" weight="0.25606468" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -574,7 +558,8 @@
     <MESSAGE value="add 21_merge_two_sorted_lists" />
     <MESSAGE value="add 2_add_two_numbers" />
     <MESSAGE value="add 3_longest_substring_without_repeating_characters" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 3_longest_substring_without_repeating_characters" />
+    <MESSAGE value="add 22&amp;23" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 22&amp;23" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -690,20 +675,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/medium/19_remove_nth_node_from_end_of_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hard/23_merge_k_sorted_lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hard/4_median_of_two_sorted_arrays.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -725,18 +696,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hard/23_merge_k_sorted_lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/medium/22_generate_parentheses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        <state relative-caret-position="610">
+          <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/19_remove_nth_node_from_end_of_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="516">
-            <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <first_editor relative-caret-position="306">
+            <caret line="30" column="176" lean-forward="true" selection-start-line="30" selection-start-column="176" selection-end-line="30" selection-end-column="176" />
           </first_editor>
           <second_editor />
         </state>
