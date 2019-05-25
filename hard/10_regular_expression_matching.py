@@ -25,7 +25,7 @@
 # Difficulty:   Hard
 # Author:       zlchen
 # Date:         5/1/2019
-# Performance:  56 ms, surpass 91.57%'s python submissions
+# Performance:  56 ms, surpass 91.57%'s python3 submissions
 
 
 class Solution(object):
