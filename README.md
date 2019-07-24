@@ -29,6 +29,7 @@ Number | Problem | Solution | Difficulty
 22 | [generate-parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | [Python](medium/22_generate_parentheses.py) | Medium
 23 | [merge-k-sorted-lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [Python](hard/23_merge_k_sorted_lists.py) [C++](hard/23_merge_k_sorted_lists.cpp)| Hard
 24 | [swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [Python](medium/24_swap_nodes_in_pairs.py) [C++](medium/24_swap_nodes_in_pairs.cpp) | Medium
+25 | [reverse-nodes-in-k-group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [Python](hard/25_reverse_nodes_in_k_group.py) [C++](hard/25_reverse_nodes_in_k_group.cpp)| Hard
 35 | [search-insert-position](https://leetcode-cn.com/problems/search-insert-position/) | [Python](simple/35_search_insert_position.py) | Simple
 
 ## License

@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a224a223-843e-4755-9587-9c61db1529c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hard/25_reverse_nodes_in_k_group.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hard/25_reverse_nodes_in_k_group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode-solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode-solution.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -22,8 +24,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="306">
-                <caret line="30" column="176" lean-forward="true" selection-start-line="30" selection-start-column="176" selection-end-line="30" selection-end-column="176" />
+              <first_editor relative-caret-position="580">
+                <caret line="31" selection-start-line="31" selection-end-line="31" />
               </first_editor>
               <second_editor />
             </state>
@@ -31,28 +33,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/medium/19_remove_nth_node_from_end_of_list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="13" />
+            <state relative-caret-position="380">
+              <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.cpp">
+        <entry file="file://$PROJECT_DIR$/hard/25_reverse_nodes_in_k_group.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            <state relative-caret-position="320">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hard/25_reverse_nodes_in_k_group.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -148,6 +150,8 @@
         <option value="$PROJECT_DIR$/medium/22_generate_parentheses.py" />
         <option value="$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.py" />
         <option value="$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.cpp" />
+        <option value="$PROJECT_DIR$/medium/25_reverse_nodes_in_k_group.py" />
+        <option value="$PROJECT_DIR$/hard/25_reverse_nodes_in_k_group.cpp" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -176,7 +180,7 @@
             <path>
               <item name="leetcode-solution" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-solution" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="hard" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,8 +201,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hard" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -212,28 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.24_swap_nodes_in_pairs">
-    <configuration name="21_merge_two_sorted_lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode-solution" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/simple" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple/21_merge_two_sorted_lists.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.25_reverse_nodes_in_k_group">
     <configuration name="22_generate_parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode-solution" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,6 +257,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="25_reverse_nodes_in_k_group" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode-solution" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/medium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hard/25_reverse_nodes_in_k_group.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,11 +330,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.25_reverse_nodes_in_k_group" />
         <item itemvalue="Python.24_swap_nodes_in_pairs" />
         <item itemvalue="Python.22_generate_parentheses" />
         <item itemvalue="Python.3_longest_substring_without_repeating_characters" />
         <item itemvalue="Python.2_add_two_numbers" />
-        <item itemvalue="Python.21_merge_two_sorted_lists" />
       </list>
     </recent_temporary>
   </component>
@@ -462,15 +472,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="64" y="-4" width="1857" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49933067" visible="true" weight="0.1989425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49933067" visible="true" weight="0.19868995" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24966975" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966952" visible="true" weight="0.25606468" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966952" visible="true" weight="0.25586137" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -478,7 +488,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32884097" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50033045" side_tool="true" weight="0.25606468" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32884097" />
-      <window_info anchor="bottom" id="Debug" order="10" sideWeight="0.50066936" weight="0.3787062" />
+      <window_info anchor="bottom" id="Debug" order="10" sideWeight="0.50066936" weight="0.3781855" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24966443" />
@@ -564,6 +574,11 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>not end</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>[{j[0], j[1], nums[i + 1]} == set(k) for k in dp[i]]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -576,11 +591,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.git-credentials">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7_reverse_integer.py" />
-    <entry file="file://$PROJECT_DIR$/9_palindrome_number.py" />
     <entry file="file://$PROJECT_DIR$/35_search_insert_position.py" />
     <entry file="file://$PROJECT_DIR$/4_median_of_two_sorted_arrays.py" />
     <entry file="file://$PROJECT_DIR$/6_zigzag_conversion.py" />
@@ -633,13 +643,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Python/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="331" selection-start-line="331" selection-end-line="331" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Python/Lib/codecs.py" />
     <entry file="file://$PROJECT_DIR$/simple/21_merge_two_sorted_lists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -710,32 +714,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_breakpoints.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/medium/19_remove_nth_node_from_end_of_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" />
+        <state relative-caret-position="340">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/python36/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="310" selection-start-line="310" selection-end-line="310" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="13" />
+        <state relative-caret-position="380">
+          <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/medium/24_swap_nodes_in_pairs.cpp">
+    <entry file="file://$PROJECT_DIR$/hard/25_reverse_nodes_in_k_group.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        <state relative-caret-position="340">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hard/25_reverse_nodes_in_k_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="306">
-            <caret line="30" column="176" lean-forward="true" selection-start-line="30" selection-start-column="176" selection-end-line="30" selection-end-column="176" />
+          <first_editor relative-caret-position="580">
+            <caret line="31" selection-start-line="31" selection-end-line="31" />
           </first_editor>
           <second_editor />
         </state>
