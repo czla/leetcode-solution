@@ -9,7 +9,7 @@
 # Difficulty:   Simple
 # Author:       zlchen
 # Date:         7/28/2019
-# Performance:  60 ms, surpass 27.55%'s python3 submissions
+# Performance:  132 ms, surpass 27.55%'s python3 submissions
 
 
 class Solution:
