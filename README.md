@@ -25,11 +25,12 @@ Number | Problem | Solution | Difficulty
 18 | [4sum](https://leetcode-cn.com/problems/4sum/) | [Python](medium/18_4sum.py) [C++](medium/18_4sum.cpp) | Medium
 19 | [remove-nth-node-from-end-of-list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Python](medium/19_remove_nth_node_from_end_of_list.py) [C++](medium/19_remove_nth_node_from_end_of_list.cpp) | Medium
 20 | [valid-parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [Python](simple/20_valid_parentheses.py) | Simple
-21 | [merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/submissions/) | [Python](simple/21_merge_two_sorted_lists.py) [C++](simple/21_merge_two_sorted_lists.cpp) | Simple
+21 | [merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Python](simple/21_merge_two_sorted_lists.py) [C++](simple/21_merge_two_sorted_lists.cpp) | Simple
 22 | [generate-parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | [Python](medium/22_generate_parentheses.py) | Medium
 23 | [merge-k-sorted-lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [Python](hard/23_merge_k_sorted_lists.py) [C++](hard/23_merge_k_sorted_lists.cpp)| Hard
 24 | [swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [Python](medium/24_swap_nodes_in_pairs.py) [C++](medium/24_swap_nodes_in_pairs.cpp) | Medium
 25 | [reverse-nodes-in-k-group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [Python](hard/25_reverse_nodes_in_k_group.py) [C++](hard/25_reverse_nodes_in_k_group.cpp)| Hard
+26 | [remove-duplicates-from-sorted-array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Python](simple/26_remove_duplicates_from_sorted_array.py) [C++](simple/26_remove_duplicates_from_sorted_array.cpp) | Simple
 35 | [search-insert-position](https://leetcode-cn.com/problems/search-insert-position/) | [Python](simple/35_search_insert_position.py) | Simple
 
 ## License
