@@ -31,6 +31,7 @@ Number | Problem | Solution | Difficulty
 24 | [swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [Python](medium/24_swap_nodes_in_pairs.py) [C++](medium/24_swap_nodes_in_pairs.cpp) | Medium
 25 | [reverse-nodes-in-k-group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [Python](hard/25_reverse_nodes_in_k_group.py) [C++](hard/25_reverse_nodes_in_k_group.cpp)| Hard
 26 | [remove-duplicates-from-sorted-array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Python](simple/26_remove_duplicates_from_sorted_array.py) [C++](simple/26_remove_duplicates_from_sorted_array.cpp) | Simple
+27 | [remove-element](https://leetcode-cn.com/problems/remove-element/) | [Python](simple/27_remove_element.py) [C++](simple/27_remove_element.cpp) | Simple
 35 | [search-insert-position](https://leetcode-cn.com/problems/search-insert-position/) | [Python](simple/35_search_insert_position.py) | Simple
 
 ## License
