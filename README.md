@@ -33,8 +33,9 @@ Number | Problem | Solution | Difficulty
 26 | [remove-duplicates-from-sorted-array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [Python](simple/26_remove_duplicates_from_sorted_array.py) [C++](simple/26_remove_duplicates_from_sorted_array.cpp) | Simple
 27 | [remove-element](https://leetcode-cn.com/problems/remove-element/) | [Python](simple/27_remove_element.py) [C++](simple/27_remove_element.cpp) | Simple
 28 | [implement-strstr](https://leetcode-cn.com/problems/implement-strstr/) | [Python](simple/28_implement_strstr.py) [C++](simple/28_implement_strstr.cpp) | Simple
-29 | [swap-nodes-in-pairs](https://leetcode-cn.com/problems/divide-two-integers/) | [Python](medium/29_divide_two_integers.py) | Medium
+29 | [divide-two-integers](https://leetcode-cn.com/problems/divide-two-integers/) | [Python](medium/29_divide_two_integers.py) | Medium
 30 | [substring-with-concatenation-of-all-words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | [Python](hard/30_substring_with_concatenation_of_all_words.py) [C++](hard/30_substring_with_concatenation_of_all_words.cpp)| Hard
+31 | [next-permutation](https://leetcode-cn.com/problems/next-permutation/) | [Python](medium/31_next_permutation.py) | Medium
 35 | [search-insert-position](https://leetcode-cn.com/problems/search-insert-position/) | [Python](simple/35_search_insert_position.py) | Simple
 
 ## License
