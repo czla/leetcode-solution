@@ -36,6 +36,7 @@ Number | Problem | Solution | Difficulty
 29 | [divide-two-integers](https://leetcode-cn.com/problems/divide-two-integers/) | [Python](medium/29_divide_two_integers.py) | Medium
 30 | [substring-with-concatenation-of-all-words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | [Python](hard/30_substring_with_concatenation_of_all_words.py) [C++](hard/30_substring_with_concatenation_of_all_words.cpp)| Hard
 31 | [next-permutation](https://leetcode-cn.com/problems/next-permutation/) | [Python](medium/31_next_permutation.py) [C++](medium/31_next_permutation.cpp)| Medium
+32 | [longest-valid-parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [Python](hard/32_longest_valid_parentheses.py) [C++](hard/32_longest_valid_parentheses.cpp)| Hard
 35 | [search-insert-position](https://leetcode-cn.com/problems/search-insert-position/) | [Python](simple/35_search_insert_position.py) | Simple
 
 ## License
