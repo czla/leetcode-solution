@@ -37,6 +37,7 @@ Number | Problem | Solution | Difficulty
 30 | [substring-with-concatenation-of-all-words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | [Python](hard/30_substring_with_concatenation_of_all_words.py) [C++](hard/30_substring_with_concatenation_of_all_words.cpp)| Hard
 31 | [next-permutation](https://leetcode-cn.com/problems/next-permutation/) | [Python](medium/31_next_permutation.py) [C++](medium/31_next_permutation.cpp)| Medium
 32 | [longest-valid-parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [Python](hard/32_longest_valid_parentheses.py) [C++](hard/32_longest_valid_parentheses.cpp)| Hard
+33 | [search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Python](medium/33_search_in_rotated_sorted_array.py) [C++](medium/33_search_in_rotated_sorted_array.cpp)| Medium
 35 | [search-insert-position](https://leetcode-cn.com/problems/search-insert-position/) | [Python](simple/35_search_insert_position.py) | Simple
 
 ## License
