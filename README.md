@@ -38,6 +38,7 @@ Number | Problem | Solution | Difficulty
 31 | [next-permutation](https://leetcode-cn.com/problems/next-permutation/) | [Python](medium/31_next_permutation.py) [C++](medium/31_next_permutation.cpp)| Medium
 32 | [longest-valid-parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [Python](hard/32_longest_valid_parentheses.py) [C++](hard/32_longest_valid_parentheses.cpp)| Hard
 33 | [search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Python](medium/33_search_in_rotated_sorted_array.py) [C++](medium/33_search_in_rotated_sorted_array.cpp)| Medium
+34 | [find-first-and-last-position-of-element-in-sorted-array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](medium/34_find_first_and_last_position_of_element_in_sorted_array.py) [C++](medium/34_find_first_and_last_position_of_element_in_sorted_array.cpp)| Medium
 35 | [search-insert-position](https://leetcode-cn.com/problems/search-insert-position/) | [Python](simple/35_search_insert_position.py) | Simple
 
 ## License
