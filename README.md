@@ -40,6 +40,7 @@ Number | Problem | Solution | Difficulty
 33 | [search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Python](medium/33_search_in_rotated_sorted_array.py) [C++](medium/33_search_in_rotated_sorted_array.cpp)| Medium
 34 | [find-first-and-last-position-of-element-in-sorted-array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](medium/34_find_first_and_last_position_of_element_in_sorted_array.py) [C++](medium/34_find_first_and_last_position_of_element_in_sorted_array.cpp)| Medium
 35 | [search-insert-position](https://leetcode-cn.com/problems/search-insert-position/) | [Python](simple/35_search_insert_position.py) | Simple
+36 | [valid-sudoku](https://leetcode-cn.com/problems/valid-sudoku/) | [Python](medium/36_valid_sudoku.py) [C++](medium/36_valid_sudoku.cpp)| Medium
 
 ## License
 MIT
