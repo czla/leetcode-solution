@@ -43,6 +43,7 @@ Number | Problem | Solution | Difficulty
 36 | [valid-sudoku](https://leetcode-cn.com/problems/valid-sudoku/) | [Python](medium/36_valid_sudoku.py) [C++](medium/36_valid_sudoku.cpp)| Medium
 37 | [sudoku-solver](https://leetcode-cn.com/problems/sudoku-solver/) | [Python](hard/37_sudoku_solver.py) | Hard
 38 | [count-and-say](https://leetcode-cn.com/problems/count-and-say/) | [Python](simple/38_count_and_say.py) [C++](simple/38_count_and_say.cpp) | Simple
+39 | [combination-sum](https://leetcode-cn.com/problems/combination-sum/) | [Python](medium/39_combination_sum.py) [C++](medium/39_combination_sum.cpp)| Medium
 
 
 ## License
