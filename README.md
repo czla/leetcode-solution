@@ -45,6 +45,7 @@ Number | Problem | Solution | Difficulty
 38 | [count-and-say](https://leetcode-cn.com/problems/count-and-say/) | [Python](simple/38_count_and_say.py) [C++](simple/38_count_and_say.cpp) | Simple
 39 | [combination-sum](https://leetcode-cn.com/problems/combination-sum/) | [Python](medium/39_combination_sum.py) [C++](medium/39_combination_sum.cpp)| Medium
 40 | [combination-sum-ii](https://leetcode-cn.com/problems/combination-sum-ii/) | [Python](medium/40_combination_sum_ii.py) [C++](medium/40_combination_sum_ii.cpp)| Medium
+41 | [first-missing-positive](https://leetcode-cn.com/problems/first-missing-positive/) | [Python](hard/41_first_missing_positive.py) [C++](hard/41_first_missing_positive.cpp)| Hard
 
 
 ## License
