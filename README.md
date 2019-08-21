@@ -47,6 +47,7 @@ Number | Problem | Solution | Difficulty
 40 | [combination-sum-ii](https://leetcode-cn.com/problems/combination-sum-ii/) | [Python](medium/40_combination_sum_ii.py) [C++](medium/40_combination_sum_ii.cpp)| Medium
 41 | [first-missing-positive](https://leetcode-cn.com/problems/first-missing-positive/) | [Python](hard/41_first_missing_positive.py) [C++](hard/41_first_missing_positive.cpp)| Hard
 42 | [trapping-rain-water](https://leetcode-cn.com/problems/trapping-rain-water/) | [Python](hard/42_trapping_rain_water.py) [C++](hard/42_trapping_rain_water.cpp)| Hard
+43 | [multiply-strings](https://leetcode-cn.com/problems/multiply-strings/) | [Python](medium/43_multiply_strings.py) | Medium
 
 
 ## License
